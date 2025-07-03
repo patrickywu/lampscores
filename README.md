@@ -21,7 +21,7 @@ pip install "lampscores@git+https://github.com/patrickywu/lampscores.git"
 
 An example of how to use the LaMPscores class is below.
 
-```
+```python
 from openai import AsyncOpenAI
 from lampscores import LaMPscores
 
