@@ -1,4 +1,4 @@
-# The LaMP Scores Framework
+# The Language Model Pairwise Comparison Framework
 
 Last updated: July 3, 2025
 
