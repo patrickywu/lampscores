@@ -1,0 +1,13 @@
+# ─── Python byte-code ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+
+# ─── Editable-install & build metadata ─────────────────────────
+*.egg-info/
+dist/
+build/
+
+# ─── Virtual-environment directories (optional) ───────────────
+.venv/
+venv/
+.env/

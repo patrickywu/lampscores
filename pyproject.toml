@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lampscores"
+version = "0.1.0"
+description = "Package for LaMPscores"
+readme = "README.md"
+authors = [{name = "Patrick Wu", email = "patrickwu@american.edu"}]
+requires-python = ">=3.11"
+
+# Runtime dependencies (if any)
+dependencies = [
+    "pandas",
+    "openai"
+]
+
+[project.urls]
+Homepage = "https://github.com/patrickywu/LaMPscores"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["lampscores"]  

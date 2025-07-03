@@ -1,0 +1,4 @@
+openai
+shiny
+pandas
+lampscores @ git+https://github.com/patrickywu/lampscores.git@main
