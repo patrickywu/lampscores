@@ -1,0 +1,15 @@
+# ==== general rule ====
+# Treat everything that looks like text as text; keep LF in the repo
+* text=auto eol=lf
+
+# ==== overrides ====
+# Windows batch files need CRLF in the working tree 
+*.bat   text eol=crlf
+
+# PowerShell scripts can stay LF; modern PS handles it fine
+*.ps1   text eol=lf
+
+# Never touch binary assets
+*.png   -text
+*.jpg   -text
+*.pdf   -text
