@@ -39,7 +39,6 @@ class LaMPscores:
         self.liberal_direction_prompt = liberal_direction_prompt
         self.conservative_direction_prompt = conservative_direction_prompt
         self.extraction_prompt = extraction_prompt
-        self.extraction_prompt = extraction_prompt
         self.liberal_extraction_prompt = liberal_extraction_prompt
         self.conservative_extraction_prompt = conservative_extraction_prompt
         self.scale_increasing_intensity = scale_increasing_intensity
