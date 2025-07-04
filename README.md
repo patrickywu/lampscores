@@ -45,4 +45,4 @@ lamp_ideology.matchup_results_df # Use this to see the resulting pairwise compar
 ```
 
 ## Demonstration Video
-A video demonstration the application can be found [here](https://www.youtube.com/watch?v=_ntdAs3c-UI).
+A video demonstration the application can be found [here](https://youtu.be/ojS_g4SeXFE).
