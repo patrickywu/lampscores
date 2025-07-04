@@ -43,3 +43,6 @@ await lamp_ideology.run()
 
 lamp_ideology.matchup_results_df # Use this to see the resulting pairwise comparisons
 ```
+
+## Demonstration Video
+A video demonstration the application can be found [here](https://www.youtube.com/watch?v=_ntdAs3c-UI).
