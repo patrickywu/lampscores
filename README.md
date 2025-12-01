@@ -1,6 +1,6 @@
 # The Language Model Pairwise Comparison Framework
 
-Last updated: July 3, 2025
+Last updated: November 30, 2025
 
 Authors: Patrick Y. Wu, Jonathan Nagler, Joshua A. Tucker, and Solomon Messing
 
@@ -45,4 +45,4 @@ lamp_ideology.matchup_results_df # Use this to see the resulting pairwise compar
 ```
 
 ## Demonstration Video
-A video demonstration the application can be found [here](https://youtu.be/ojS_g4SeXFE).
+A video demonstration the application can be found [here](https://www.youtube.com/watch?v=PFBb8crT8xo).
